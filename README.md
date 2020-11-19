@@ -2,4 +2,5 @@
 This repository contains small examples for help us in real life
 
 ## Examples
-No examples added :sweat_smile:
+### Tests
+* [Integration Tests](https://github.com/joaoantoniosiqueira/java-adventures/tree/master/newty)
